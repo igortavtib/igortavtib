@@ -8,8 +8,8 @@
 ### Connect with me:
 
 [<img align="left" alt="igortavtib | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="igortavtib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][instagram]
-[<img align="left" alt="igortavtib | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][linkedin]
+[<img align="left" alt="igortavtib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="igortavtib | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -38,4 +38,4 @@
 [SaasTec]: http://www.saastecerp.com.br
 [youtube]: https://www.youtube.com/channel/UCloFIkgaULO-LHIWs13cjYghttps://youtube.com/igortavtib
 [instagram]: https://instagram.com/igortavtib
-[linkedin]: https://linkedin.com/in/igortavtib
+[linkedin]: https://www.linkedin.com/in/igor-augusto-tavares-tibiriçá-70572b177/
