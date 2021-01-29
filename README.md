@@ -1,8 +1,8 @@
 ### Hello there, I'm Igor 👋
 
-## I'm a software developer studant!
+## I'm a back-end engineer
 - 🔭 Currently working on a [SaaSTec][SaasTec]!
-- 🌱 I’m currently learning everything i can 
+- 🌱 I’m currently learning everything i can about backend and devops
 - 👯 Looking to collaborate with new ideas
 
 ### Connect with me:
