@@ -1,7 +1,7 @@
 ### Hello there, I'm Igor 👋
 
 ## I'm a back-end engineer
-- 🔭 Currently working on a [Tunts][Tunts]!
+- 🔭 Currently working at [Tunts][Tunts]!
 - 🌱 I’m currently learning everything i can about backend and devops
 - 👯 Looking to collaborate with new ideas
 
