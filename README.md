@@ -1,7 +1,7 @@
 ### Hello there, I'm Igor 👋
 
 ## I'm a back-end engineer
-- 🔭 Currently working on a [SaaSTec][SaasTec]!
+- 🔭 Currently working on a [Tunts][Tunts]!
 - 🌱 I’m currently learning everything i can about backend and devops
 - 👯 Looking to collaborate with new ideas
 
@@ -34,7 +34,7 @@
 
 <img align="left" alt="Igor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=igortavtib&show_icons=true&hide_border=true" />
 
-[SaasTec]: http://www.saastecerp.com.br
+[Tunts]: https://tunts.com/
 [youtube]: https://www.youtube.com/channel/UCloFIkgaULO-LHIWs13cjYghttps://youtube.com/igortavtib
 [instagram]: https://instagram.com/igortavtib
 [linkedin]: https://www.linkedin.com/in/igor-augusto-tavares-tibiriçá-70572b177/
