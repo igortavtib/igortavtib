@@ -3,7 +3,7 @@
 ## I am a Fullstack Developer @Zenvia
 - 🔭 Currently working at [Zenvia][Zenvia]!
 - ⚛️  I’m currently working with and learning React, Vue and Svelte.
-- 🔓 I lova to contribute to Open Source.
+- 🔓 I love to contribute to Open Source.
 - 🤖 Maintainer of AppiumFlutterLibrary. 
 
 ### Connect with me:
