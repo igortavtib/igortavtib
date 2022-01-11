@@ -1,9 +1,10 @@
 ### Hello there, I'm Igor 👋
 
-## I'm a back-end engineer
-- 🔭 Currently working at [Tunts][Tunts]!
-- 🌱 I’m currently learning everything i can about backend and devops
-- 👯 Looking to collaborate with new ideas
+## I am a Fullstack Developer @Zenvia
+- 🔭 Currently working at [Zenvia][Tunts]!
+- ⚛️  I’m currently working with and learning React, Vue and Svelte.
+- 🔓 I lova to contribute to Open Source.
+- 🤖 Maintainer of AppiumFlutterLibrary. 
 
 ### Connect with me:
 
@@ -34,7 +35,7 @@
 
 <img align="left" alt="Igor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=igortavtib&show_icons=true&hide_border=true" />
 
-[Tunts]: https://tunts.com/
+[Zenvia]: https://zenvia.com/
 [youtube]: https://www.youtube.com/channel/UCloFIkgaULO-LHIWs13cjYghttps://youtube.com/igortavtib
 [instagram]: https://instagram.com/igortavtib
 [linkedin]: https://www.linkedin.com/in/igor-augusto-tavares-tibiriçá-70572b177/
